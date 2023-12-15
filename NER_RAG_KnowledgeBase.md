@@ -91,6 +91,3 @@ This project demonstrates the potential of AI in personalized healthcare. By com
 * Share your ideas and suggestions for further improvement.
 * Help build a future where AI empowers healthcare professionals to deliver personalized and effective care to every patient.
 
-**Let's revolutionize healthcare with the power of AI!**
-
-This .md file is formatted for copy-pasting and can be easily used in your preferred Markdown editor or platform. Remember to adapt the code examples to your specific
